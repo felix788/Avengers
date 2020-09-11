@@ -2,4 +2,3 @@
 
 * thanos
 * galactus
-* Capitán America
